@@ -129,13 +129,13 @@ width :100%;
 <body>
  <div id="loading" class="loading">
 <div class="loading-text">
-    <span class="loading-text-words" style="color:#d9230f;">D</span>
-    <span class="loading-text-words" style="color:#d9230f;">J</span>
+    <span class="loading-text-words" style="color:#d9230f;">T</span>
+    <span class="loading-text-words" style="color:#d9230f;">G</span>
     <span class="loading-text-words" style="color:#d9230f;">-</span>
-    <span class="loading-text-words" style="color:#d9230f;">S</span>
-    <span class="loading-text-words" style="color:#d9230f;">N</span>
     <span class="loading-text-words" style="color:#d9230f;">A</span>
-    <span class="loading-text-words" style="color:#d9230f;">K</span><span class="loading-text-words" style="color:#d9230f;">E</span></div>
+    <span class="loading-text-words" style="color:#d9230f;">N</span>
+    <span class="loading-text-words" style="color:#d9230f;">M</span>
+    <span class="loading-text-words" style="color:#d9230f;">O</span><span class="loading-text-words" style="color:#d9230f;">L</span></div>
 </div>
 <div>
 <video autoplay controls crossorigin playsinline>
